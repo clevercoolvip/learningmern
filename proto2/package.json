@@ -1,0 +1,15 @@
+{
+  "name": "login_signup_page",
+  "version": "1.0.0",
+  "description": "creating a login and signup page using MONGODB and Express with HTML/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwajeet Panda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
