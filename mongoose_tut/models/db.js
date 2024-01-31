@@ -30,18 +30,3 @@ module.exports = {
     User, 
     Posts
 };
-
-
-// const newUser = new User({
-//     name: "Shweta Panda",
-//     email: "heymisspanda27b@gmail.com"
-// });
-// newUser.save().then((newUser)=>console.log("Added USER Record")).catch((error)=>console.log("Error", e));
-
-// const newPost = new Posts({
-//     title: "How to be a Cabin Crew?",
-//     content: "Cabin crew consisting of flight attendants carry out the instructions given by pilots or co-pilots outside the cockpit. They are also in charge of the safety and comfort of passengers on a flight, and they inform the passengers when necessary.",
-//     user : newUser.id
-// });
-
-// newPost.save().then((post)=>console.log("Added POSTS Record")).catch((error)=>console.log("Error", e));
